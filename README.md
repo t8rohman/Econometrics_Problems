@@ -1,4 +1,7 @@
 # Econometrics_Problems
+
+_Date: 05/28/2022_
+
 One of econometrics homework for completing my Master's Degree in Ritsumeikan University. This homework revolves around time-series data, the problem that underlies the data, and how to tackle it. It includes:
 
 1. Hypothesis testing
